@@ -16,20 +16,7 @@
         }
       ],
       "description": "In botany, a tree is a perennial plant with an elongated stem, or trunk, supporting branches and leaves in most species. In some usages, the definition of a tree may be narrower, including only woody plants with secondary growth, plants that are usable as lumber or plants above a specified height. In wider definitions, the taller palms, tree ferns, bananas, and bamboos are also trees",
-      "clarification": [
-        {
-          "id": "1",
-          "content": "Description is the pattern of narrative development that aims to make vivid a place, object, character, or group"
-        },
-        {
-          "id": "2",
-          "content": "A purple patch is an over-written passage in which the writer has strained too hard to achieve an impressive effect, by elaborate figures or other means."
-        },
-        {
-          "id": "3",
-          "content": "ersonification occurs when a thing or abstraction is represented as a person, in literature or art, as an anthropomorphic metaphor."
-        }
-      ],
+      "clarification": "There are also two additional keywords you can pair with these values: safe and unsafe. Using safe ensures that however you do this type of positioning, you can’t push an element such that it renders off-screen (e.g. off the top) in such a way the content can’t be scrolled too (called “data loss”).",
       "images": [],
       "doc": [
         {
@@ -58,12 +45,7 @@
         }
       ],
       "description": "Personification occurs when a thing or abstraction is represented as a person, in literature or art, as an anthropomorphic metaphor. The type of personification discussed here excludes passing literary effects such as Shadows hold their breath,[1] and covers cases where a personification appears as a character in literature, or a human figure in art. The technical term for this, since ancient Greece",
-      "clarification": [
-        {
-          "id": "1",
-          "content": "Description is the pattern of narrative development that aims to make vivid a place, object, character, or group"
-        }
-      ],
+      "clarification": "clarification": "There are also two additional keywords you can pair with these values: safe and unsafe. Using safe ensures that however you do this type of positioning, you can’t push an element such that it renders off-screen (e.g. off the top) in such a way the content can’t be scrolled too (called “data loss”).",
       "images": [
         {
           "id": "1",
@@ -103,16 +85,7 @@
       "isSubcategory":false,
        "reviewers":["Asnad","Divin","Madhu"],
       "description": "ersonification occurs when a thing or abstraction is represented as a person, in literature or art, as an anthropomorphic metaphor.",
-      "clarification": [
-        {
-          "id": "1",
-          "content": "Description is the pattern of narrative development that aims to make vivid a place, object, character, or group"
-        },
-        {
-          "id": "2",
-          "content": "A purple patch is an over-written passage in which the writer has strained too hard to achieve an impressive effect, by elaborate figures or other means."
-        }
-      ],
+      "clarification": "clarification": "There are also two additional keywords you can pair with these values: safe and unsafe. Using safe ensures that however you do this type of positioning, you can’t push an element such that it renders off-screen (e.g. off the top) in such a way the content can’t be scrolled too (called “data loss”).",
       "images": [
         {
           "id": "1",
@@ -136,12 +109,7 @@
       "eventTitle":"Event Title 4",
        "isSubcategory":false,
       "description": " including only woody plants with secondary growth, plants that are usable as lumber or plants above a specified height. In wider definitions, the taller palms, tree ferns, bananas, and bamboos are also trees",
-      "clarification": [
-        {
-          "id": "1",
-          "content": "Description is the pattern of narrative development that aims to make vivid a place, object, character, or group"
-        }
-      ],
+      "clarification": "clarification": "There are also two additional keywords you can pair with these values: safe and unsafe. Using safe ensures that however you do this type of positioning, you can’t push an element such that it renders off-screen (e.g. off the top) in such a way the content can’t be scrolled too (called “data loss”).",
       "images": [
         {
           "id": "1",
@@ -166,20 +134,7 @@
         }
       ],
       "description": " including only woody plants with secondary growth, plants that are usable as lumber or plants above a specified height. In wider definitions, the taller palms, tree ferns, bananas, and bamboos are also trees",
-      "clarification": [
-        {
-          "id": "1",
-          "content": "Description is the pattern of narrative development that aims to make vivid a place, object, character, or group"
-        },
-        {
-          "id": "2",
-          "content": "A purple patch is an over-written passage in which the writer has strained too hard to achieve an impressive effect, by elaborate figures or other means."
-        },
-        {
-          "id": "3",
-          "content": "ersonification occurs when a thing or abstraction is represented as a person, in literature or art, as an anthropomorphic metaphor."
-        }
-      ],
+      "clarification": "clarification": "There are also two additional keywords you can pair with these values: safe and unsafe. Using safe ensures that however you do this type of positioning, you can’t push an element such that it renders off-screen (e.g. off the top) in such a way the content can’t be scrolled too (called “data loss”).",
       "images": [
         {
           "id": "1",
